@@ -4,7 +4,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, Amir!");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
 
-
 string text = System.IO.File.ReadAllText("text.txt");
 Console.WriteLine(text);
 
